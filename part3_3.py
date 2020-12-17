@@ -22,3 +22,4 @@ def my_func(arg_1, arg_2, arg_3):
     return max_1 + max_2
 
 print(my_func(num_1, num_2, num_3))
+
